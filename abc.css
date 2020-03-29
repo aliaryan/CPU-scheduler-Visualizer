@@ -1,0 +1,80 @@
+        fresh th {
+            background: linear-gradient(green, lightgray);
+            text-align: left;
+            font-size: 40;
+            border: 1px solid black;
+            height: 400 px;
+        }
+        fresh td {
+            border: 1px solid black;
+            border-bottom: 0;
+            /*border-right: 0;*/
+            height: 20px;
+            text-align: left;
+        }
+
+        div th, div td {
+            border: 1px solid black;
+            text-align: center;
+        }
+        table {
+            display: inline;
+            border-collapse: collapse;
+            font-size: 40;
+
+        }
+        input {
+            text-align: center;
+        }
+        #curtain {
+          background-color: rgb(150, 181, 138);
+        }
+         body {
+            background-color: rgb(150, 181, 138);
+
+        }
+        p{
+            font-size: 40;
+        }
+        form{
+            font-size: 40;
+
+        }
+        body{
+            font-size: 40;
+            font-family: "Times New Roman", Times, serif;
+            fo
+        }
+        .inititalexectime{
+            font-size: 20;
+
+        }
+        input{
+            font-size: 39;
+            background-color: rgb(150, 181, 138);
+
+        }
+        h4{
+            
+    font-size: 18px;
+    line-height: 1.67em;
+    letter-spacing: .006em;
+    font-family: BreveText,helvetica,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-transform: none;
+    padding: 0;
+    
+        }
+        h2,h1{
+    font-size: 36px;
+    line-height: 1em;
+    letter-spacing: -.025em;
+    font-family: LabGrotesque,helvetica,sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    text-transform: none;
+    text-align: center;
+    color: #000;
+}
+        
