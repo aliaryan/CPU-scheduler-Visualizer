@@ -276,7 +276,7 @@ function draw() {
     var executeTimes = [];
 
     $.each(inputTable, function (key, value) {
-      if (key == 0) return true;
+      if (key++ == 0) return true;
       var executeTime = parseInt($(value.children[2]).children().first().val());
       executeTimes[key - 1] = { "executeTime": executeTime, "P": key - 1 };
     });
