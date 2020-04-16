@@ -19,11 +19,11 @@
         table {
             display: inline;
             border-collapse: collapse;
-            font-size: 30;
+            font-size: 23;
         }
         input {
             text-align: center;
-            font-size: 29;
+            font-size: 23;
         }
         #curtain {
           background-color:rgb(150, 181, 138);
@@ -33,12 +33,12 @@
 
         }
         body{
-            font-size: 30;
+            font-size: 23;
             font-family: "Times New Roman", Times, serif;
             
         }
         form{
-            font-size: 30;
+            font-size: 23;
 
         }
         h4{
